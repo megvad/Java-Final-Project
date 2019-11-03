@@ -1,3 +1,12 @@
+//	Project Name: Battle Royale
+//
+//  Author: Meghana Vadassery
+//
+//	Description: The final project for a class in Java that utlizes the skills I have learned.
+//               Based on fighting RPG games, the player must choose a type of fighter to train in order to participate in a tournament.
+//               The program uses object-oriented programming and various classes. Player can train their character, shop for items, 
+//               and explore dungeons.
+
 import java.util.Scanner;
 // To import the Scanner class to ask the player questions
 import java.util.Random;
